@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @katGhost
+- 👋Hi, I’m @katGhost
 - 👀 I’m interested in mobile Apps and software development
-- 🌱 I’m currently learning flutter, react-native-expo and c#
+- 🌱 Certified Junior Developer in Flutter and React-Native Expo
 - 📫 I currently have no social setup.
 
 <!---
