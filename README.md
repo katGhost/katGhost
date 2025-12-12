@@ -1,10 +1,11 @@
-## Hey There!, I am Andries 👨🏾‍💻
+# Hey There!, I am Andries 👨🏾‍💻
 
-🔥 CS50 Student/Alumni and Certified Front-End Developer<br/>
-✔ MTN App Academy IT Varsity Alumni - 2022<br/>
+🔥 CS50 Alumni and Certified Front-End Developer<br/>
+🏆 CS50X Certified <br/>
+🏆 CS50P Certified <br/>
+🏆 MTN App Academy IT Varsity Alumni - 2022<br/>
 ♟ I ask the right questions and derive solutions with modern technologies<br/>
-💡 Modern Problems -> Modern Solutions<br/>
-🎞 Some of my Software Development journey here [Instagram](https://www.instagram.com/ghostkatdev/)<br/>
+💡 from Modern Problems import Modern Solutions<br/>
 
 
 ## 🌐 Socials:
