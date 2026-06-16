@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on eventé - events marketplace SaaS<br>Looking to collaborate on DevRank - AI Powered Dev Roamap generator and gamified Leaderboard <br>Currently learning Backend AI Engineering<br>Ask me about Python - Backend<br>Fun fact: I Learn As I Go<br>Portfolio: https://anmgashoa-v1.vercel.app
+Currently working on eventé - events marketplace SaaS<br>Looking to collaborate on DevRank - AI Powered Dev Roamap generator and gamified Leaderboard <br>Currently learning Backend AI Engineering<br>Ask me about Python - Backend<br>Fun fact: I Learn As I Go<br>[[Portfolio](https://anmgashoa-v1.vercel.app)]
 
 
 ## 🌐 Socials:
