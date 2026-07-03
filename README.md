@@ -1,6 +1,6 @@
 # WhoAmI:
 
-## Me
+I build Backend systems, API design, scalable architecture, and AI-assisted engineering workflows.
 
 ```python
 class Developer:
@@ -10,7 +10,7 @@ class Developer:
         self.preferred = preferred_name
 ```
 
-## Developer
+## Me
 
 ```python
 class Kat(Developer):
@@ -44,6 +44,14 @@ class Kat(Developer):
         ]
     
 ```
+
+## Education & Certifications
+
+| Institute | Program or Course | Accreditation | Year |
+|:-----|:------:|-----:|-----:|
+| Udacity | AWS AI Practitioner | AWS | 2026 |
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=katGhost&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=katGhost&theme=shadow_red&hide_border=false)<br/>
