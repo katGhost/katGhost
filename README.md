@@ -10,7 +10,7 @@ class Developer:
         self.preferred = preferred_name
 ```
 
-## Me
+## Profession & Stack
 
 ```python
 class Kat(Developer):
@@ -48,8 +48,15 @@ class Kat(Developer):
 ## Education & Certifications
 
 | Institute | Program or Course | Accreditation | Year |
-|:-----|:------:|-----:|-----:|
+|:-----|:------:|:------:|-----:|
 | Udacity | AWS AI Practitioner | AWS | 2026 |
+| CS50 | Introduction to computer Science and the art of Programming | Harvard Online | 2025 |
+| CS50P | Introduction to Programming with Python | Harvard Online | 2025 |
+| IT Varsity | Full-Stack Development Business App Academy | IT Varsity & MTN | 2022 |
+
+> Safety Management Graduate 2022:
+> Risk, Corporate gorvenance, statistics, labour law relations, etc.
+
 
 
 ## 📊 GitHub Stats:
