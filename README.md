@@ -54,10 +54,9 @@ class Kat(Developer):
 | CS50P | Introduction to Programming with Python | Harvard Online | 2025 |
 | IT Varsity | Full-Stack Development Business App Academy | IT Varsity & MTN | 2022 |
 
-> Safety Management Graduate 2022:
-> Risk, Corporate gorvenance, statistics, labour law relations, etc.
 
-
+> **Safety Management Graduate 2022:**
+> _Risk, Corporate gorvenance, statistics, labour law relations, etc._
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=katGhost&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
