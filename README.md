@@ -1,6 +1,6 @@
 # WhoAmI:
 
-I build Backend systems, API design, scalable architecture, and AI-assisted engineering workflows.
+I build Backend systems, API design, scalable architecture, and AI Integration.
 
 ```python
 class Developer:
